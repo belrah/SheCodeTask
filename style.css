@@ -1,0 +1,15 @@
+div.container {
+    width: 400px;
+    height: 500;
+    color: orange;
+    background-color: midnightblue;
+    padding: 0 0 0 0px;
+    position: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  body {
+    background-color: Teal;
+}
